@@ -1,5 +1,8 @@
 <p align="center">
 <img src="https://www.pexels.com/photo/macbook-pro-92904/"/>
+
+</p>
+
   ### Hi there 👋
 * 👂 My name is Mohammed
 * 🔭 I’m currently working on a supplier restaurant connecting web & mobile app
@@ -8,5 +11,3 @@
 * 💬 Ask me about anything
 * 📫 How to reach me: momarip.el.yousfi@gmail.com
 * ❤️ I love football
-</p>
-
