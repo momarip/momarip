@@ -1,8 +1,6 @@
-<img src="https://www.pexels.com/photo/macbook-pro-92904/"/>
 <p align="center">
-  
-</p>
-### Hi there 👋
+<img src="https://www.pexels.com/photo/macbook-pro-92904/"/>
+  ### Hi there 👋
 * 👂 My name is Mohammed
 * 🔭 I’m currently working on a supplier restaurant connecting web & mobile app
 * 🤝 I’m looking to collaborate on react.js & Flutter project & May be anything that has to do with Javascript & Typescript
@@ -10,3 +8,5 @@
 * 💬 Ask me about anything
 * 📫 How to reach me: momarip.el.yousfi@gmail.com
 * ❤️ I love football
+</p>
+
